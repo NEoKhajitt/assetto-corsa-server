@@ -6,8 +6,8 @@ This server is customisable
 
 # Port Forwarding
 The following ports need to be forwarded on your router and or firewall  
-Port 8081 HTTP (or tcp) ##TODO Make these ports customisbale form the docker-compose.yml  
-Port 9600 tcp and udp  ##TODO Make these ports customisbale form the docker-compose.yml  
+Port 8081 HTTP (or tcp) ##TODO Make these ports customisbale from the docker-compose.yml  
+Port 9600 tcp and udp  ##TODO Make these ports customisbale from the docker-compose.yml  
 
 # Getting Started
 Get image from dockerhub `docker pull NEoKhajitt/assetto-corsa-server:latest`
@@ -104,3 +104,7 @@ If you have a track eg. `content/track/ks_drag` in the under `[SERVER]` `TRACK=`
 <summary>Running Multiple Servers</summary>
 ## TODO Update docker-compose.yaml so accomodate multiple server config but single content directory
 </details>
+
+# Vulnerability Report
+`neokhajitt/assetto-corsa-server:1.0.0`
+![Alt text](vulnerability-report/neokhajitt-assetto-corsa-server-1.0.0.png?raw=true "neokhajitt-assetto-corsa-server-1.0.0.png")
