@@ -1,0 +1,615 @@
+{
+	"TrackName": "magione",
+	"TrackConfig": "",
+	"Type": "QUALIFY",
+	"DurationSecs": 0,
+	"RaceLaps": 0,
+	"Cars": [
+		{
+			"CarId": 0,
+			"Driver": {
+				"Name": "NEoKhajitt",
+				"Team": "",
+				"Nation": "ITA",
+				"Guid": "76561198171131834",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "bmw_m3_e30",
+			"Skin": "alpine_white_I",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 1,
+			"Driver": {
+				"Name": "SubZeroBeez",
+				"Team": "",
+				"Nation": "ZAF",
+				"Guid": "76561198838619637",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "bmw_m3_e30",
+			"Skin": "Brilliant_red",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 2,
+			"Driver": {
+				"Name": "Dynam011_GR",
+				"Team": "",
+				"Nation": "ZAF",
+				"Guid": "76561198970219314",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "bmw_m3_e30",
+			"Skin": "Cinnabar_red",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 3,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "bmw_m3_e30",
+			"Skin": "0_Diamond_Black_metallic",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 4,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "bmw_m3_e30",
+			"Skin": "Henna_Red",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 5,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "bmw_m3_e30",
+			"Skin": "Jet_Black",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 6,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "bmw_m3_e30",
+			"Skin": "Macau_Blue_Metallic",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 7,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "bmw_m3_e30",
+			"Skin": "Misano_red",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 8,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "bmw_m3_e30",
+			"Skin": "Nogaro_Silver_metallic",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 9,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "bmw_m3_e30",
+			"Skin": "Salmon_Silver_metallic",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 10,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "bmw_m3_e30",
+			"Skin": "Sterling_Silver_metallic",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 11,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "bmw_m3_e30",
+			"Skin": "alpine_white_I",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 12,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "bmw_m3_e30",
+			"Skin": "Brilliant_red",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 13,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "bmw_m3_e30",
+			"Skin": "Cinnabar_red",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 14,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "bmw_m3_e30",
+			"Skin": "0_Diamond_Black_metallic",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 15,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "bmw_m3_e30",
+			"Skin": "Henna_Red",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 16,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "bmw_m3_e30",
+			"Skin": "Jet_Black",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 17,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "bmw_m3_e30",
+			"Skin": "Macau_Blue_Metallic",
+			"BallastKG": 0,
+			"Restrictor": 0
+		}
+	],
+	"Result": [
+		{
+			"DriverName": "Dynam011_GR",
+			"DriverGuid": "76561198970219314",
+			"CarId": 2,
+			"CarModel": "bmw_m3_e30",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "SubZeroBeez",
+			"DriverGuid": "76561198838619637",
+			"CarId": 1,
+			"CarModel": "bmw_m3_e30",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 9,
+			"CarModel": "bmw_m3_e30",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 3,
+			"CarModel": "bmw_m3_e30",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 4,
+			"CarModel": "bmw_m3_e30",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 5,
+			"CarModel": "bmw_m3_e30",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 6,
+			"CarModel": "bmw_m3_e30",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 7,
+			"CarModel": "bmw_m3_e30",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 8,
+			"CarModel": "bmw_m3_e30",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "NEoKhajitt",
+			"DriverGuid": "76561198171131834",
+			"CarId": 0,
+			"CarModel": "bmw_m3_e30",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 10,
+			"CarModel": "bmw_m3_e30",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 11,
+			"CarModel": "bmw_m3_e30",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 12,
+			"CarModel": "bmw_m3_e30",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 13,
+			"CarModel": "bmw_m3_e30",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 14,
+			"CarModel": "bmw_m3_e30",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 15,
+			"CarModel": "bmw_m3_e30",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 16,
+			"CarModel": "bmw_m3_e30",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 17,
+			"CarModel": "bmw_m3_e30",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		}
+	],
+	"Laps": [
+		{
+			"DriverName": "SubZeroBeez",
+			"DriverGuid": "76561198838619637",
+			"CarId": 1,
+			"CarModel": "bmw_m3_e30",
+			"Timestamp": 745029,
+			"LapTime": 133122,
+			"Sectors": [
+				79954,
+				53168
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "SV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "SubZeroBeez",
+			"DriverGuid": "76561198838619637",
+			"CarId": 1,
+			"CarModel": "bmw_m3_e30",
+			"Timestamp": 867080,
+			"LapTime": 122049,
+			"Sectors": [
+				71639,
+				50410
+			],
+			"Cuts": 3,
+			"BallastKG": 0,
+			"Tyre": "SV",
+			"Restrictor": 0
+		}
+	],
+	"Events": [
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 1,
+			"Driver": {
+				"Name": "SubZeroBeez",
+				"Team": "",
+				"Nation": "ZAF",
+				"Guid": "76561198838619637",
+				"GuidsList": [
+					""
+				]
+			},
+			"OtherCarId": 2,
+			"OtherDriver": {
+				"Name": "Dynam011_GR",
+				"Team": "",
+				"Nation": "ZAF",
+				"Guid": "76561198970219314",
+				"GuidsList": [
+					""
+				]
+			},
+			"ImpactSpeed": 5.801488,
+			"WorldPosition": {
+				"X": -150.59862,
+				"Y": 5.451386,
+				"Z": -248.43393
+			},
+			"RelPosition": {
+				"X": 0.8536444,
+				"Y": 0.01915408,
+				"Z": 1.5448319
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 2,
+			"Driver": {
+				"Name": "Dynam011_GR",
+				"Team": "",
+				"Nation": "ZAF",
+				"Guid": "76561198970219314",
+				"GuidsList": [
+					""
+				]
+			},
+			"OtherCarId": 1,
+			"OtherDriver": {
+				"Name": "SubZeroBeez",
+				"Team": "",
+				"Nation": "ZAF",
+				"Guid": "76561198838619637",
+				"GuidsList": [
+					""
+				]
+			},
+			"ImpactSpeed": 5.909955,
+			"WorldPosition": {
+				"X": -150.5374,
+				"Y": 5.454182,
+				"Z": -248.31616
+			},
+			"RelPosition": {
+				"X": -0.8132001,
+				"Y": -0.032633405,
+				"Z": 0.82586503
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 2,
+			"Driver": {
+				"Name": "Dynam011_GR",
+				"Team": "",
+				"Nation": "ZAF",
+				"Guid": "76561198970219314",
+				"GuidsList": [
+					""
+				]
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": null
+			},
+			"ImpactSpeed": 3.1498878,
+			"WorldPosition": {
+				"X": -53.222485,
+				"Y": 5.351382,
+				"Z": -130.27348
+			},
+			"RelPosition": {
+				"X": 0.7222505,
+				"Y": -0.11966317,
+				"Z": -2.2673287
+			}
+		}
+	]
+}

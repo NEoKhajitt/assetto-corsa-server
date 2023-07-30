@@ -1,0 +1,21 @@
+version: '3.7'
+
+services:
+  assetto-corsa: 
+    image: assetto-corsa-server:steam_v2
+    container_name: assetto-corsa-server
+    restart: unless-stopped
+    environment:
+     - STEAM_USER=YOUR_STEAM_USER
+     - STEAM_PASSWORD=YOUR_STEAM_PASSWORD
+     - SERVER_NAME="YOU SERVER NAME | WITH PIPES IF YOU WANT"
+     - SERVER_PASSWORD=mumboJumbo
+     - ADMIN_SERVER_PASSWORD=adminJumboMumbo
+    volumes:
+      # Update path to where your server contents should be ## Very Important Note, start the server up at least once and veryfy that it creates a basic server before you add to the contents directory
+      - "/data/docker-compose/assetto-corsa/acserver/:/home/acserver/"
+    ports:
+      - 8081:8081/tcp
+      - 9600:9600/tcp
+      - 9600:9600/udp
+
